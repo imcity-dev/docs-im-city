@@ -14,4 +14,4 @@ last_modified_date: 2022-11-16 12:40
 
 ## What is IM.CITY?
 
-IM.CITY is a virtual city platform 
+IM.CITY is a digital city platform 
