@@ -11,13 +11,22 @@ layout: default
         <input type="hidden" name="redirect" value="{{ site.contact_web3form_success_url }}">
 
         <p>
+            Your Name
+        </p>
+        <p>
             <input type="text" name="name" required>
+        </p>
+        <p>
+            Your Email
         </p>
         <p>
            <input type="email" name="email" required>
         </p>
         <p>
-            <textarea name="message" required></textarea>
+            Your Message
+        </p>
+        <p>
+            <textarea name="message" rows="8" required></textarea>
         </p>
         <p>
             <button type="submit">Submit Form</button>
