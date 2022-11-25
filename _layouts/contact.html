@@ -4,18 +4,24 @@ layout: default
 
 {{ content }}
 
-#### Or drop our message here
+<div>
+    <form action="https://api.web3forms.com/submit" method="POST">
 
+        <input type="hidden" name="access_key" value="{{ site.contact_web3form_id }}">
+        <input type="hidden" name="redirect" value="{{ site.contact_web3form_success_url }}">
 
-<form action="https://api.web3forms.com/submit" method="POST">
+        <p>
+            <input type="text" name="name" required>
+        </p>
+        <p>
+           <input type="email" name="email" required>
+        </p>
+        <p>
+            <textarea name="message" required></textarea>
+        </p>
+        <p>
+            <button type="submit">Submit Form</button>
+        </p>
 
-    <input type="hidden" name="access_key" value="{{ site.contact_web3form_id }}">
-
-    <input type="text" name="name" required>
-    <input type="email" name="email" required>
-    <textarea name="message" required></textarea>
-    <input type="hidden" name="redirect" value="{{ site.contact_web3form_success_url }}">
-
-    <button type="submit">Submit Form</button>
-
-</form>
+    </form>
+</div>
