@@ -13,7 +13,7 @@ last_modified_date: 2022-11-26 10:40
 
 ----------------
 
-### $CTY - The "IM CITY Token"
+### The "IM CITY Token" ($CTY)
 
 ----------------
 
@@ -49,7 +49,7 @@ The **distribution structure** of the _$CTY_ is as follows:
 
 &nbsp;    
       
-### $IMCT - The "IM COMMUNITY Token"
+### The "IM COMMUNITY Token" ($IMCT)
 
 ----------------
 
