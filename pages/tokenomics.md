@@ -24,7 +24,6 @@ last_modified_date: 2022-11-26 10:40
 >All tokens issued within this platform are "utility tokens".
 >There are no "cryptocurrencies" or "crypto coins" and we do not encourage any speculation on the value of the tokens.
 
-&nbsp;
 
 ## The "IM CITY Token" ($CTY)
 
@@ -37,7 +36,7 @@ Later, in the MVP (Minimum Viable Product) stage, the token will be issued on cr
 The _$CTY_ is a rewarding token that is used to reward users for various social participations within communities and organizations and/or for their contributions to the platform.  
 As a utility token, the _$CTY_ is used to pay for the use of the platform and its services.
 
-&nbsp;
+
 ### Tokens Supply
 
 
@@ -48,7 +47,7 @@ As a utility token, the _$CTY_ is used to pay for the use of the platform and it
 | Circulating Supply | 0                 |
 
 
-&nbsp;   
+ 
 ### Distribution Structure
 
 
@@ -59,7 +58,6 @@ As a utility token, the _$CTY_ is used to pay for the use of the platform and it
 - 10% Project Initiator
 
 
-&nbsp;    
       
 ## The "IM COMMUNITY Token" ($IMCT)
 
@@ -85,7 +83,6 @@ The _$IMCT_ token will be issued on the [Shimmer] Network.
 >A decision is made after the PoC stage.
 
 
-&nbsp;   
 ### Tokens Supply
 
 
@@ -96,7 +93,7 @@ The _$IMCT_ token will be issued on the [Shimmer] Network.
 | Circulating Supply | 0               |
 
 
-&nbsp;   
+
 ### Distribution Structure
 
 
