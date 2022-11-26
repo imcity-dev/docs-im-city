@@ -5,17 +5,25 @@ nav_order: 10
 last_modified_date: 2022-11-26 10:40
 ---
 
-{:toc}
-
 {: .warning }
 >All tokens issued within this platform are "utility tokens".
 >There are no "cryptocurrencies" or "crypto coins" and we do not encourage any speculation on the value of the tokens.
 
-## IM.CITY Tokenomics
+# IM.CITY Tokenomics
+{: .no_toc }
 
 ----------------
 
-### The "IM CITY Token" ($CTY)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+## The "IM CITY Token" ($CTY)
 
 ----------------
 
@@ -27,7 +35,7 @@ The _$CTY_ is a rewarding token that is used to reward users for various social 
 As a utility token, the _$CTY_ is used to pay for the use of the platform and its services.
 
 &nbsp;
-#### Tokens Supply
+### Tokens Supply
 &nbsp;
 
 | $CTY               | Amount            |
@@ -38,7 +46,7 @@ As a utility token, the _$CTY_ is used to pay for the use of the platform and it
 
 
 &nbsp;   
-#### Distribution Structure
+### Distribution Structure
 &nbsp;
 
 - 40% Community Rewards
@@ -50,7 +58,7 @@ As a utility token, the _$CTY_ is used to pay for the use of the platform and it
 
 &nbsp;    
       
-### The "IM COMMUNITY Token" ($IMCT)
+## The "IM COMMUNITY Token" ($IMCT)
 
 ----------------
 
@@ -75,7 +83,7 @@ The _$IMCT_ token will be issued on the [Shimmer] Network.
 
 
 &nbsp;   
-#### Tokens Supply
+### Tokens Supply
 &nbsp;
 
 | $IMCT              | Amount          |
@@ -86,7 +94,7 @@ The _$IMCT_ token will be issued on the [Shimmer] Network.
 
 
 &nbsp;   
-#### Distribution Structure
+### Distribution Structure
 &nbsp;
 
 - 40% Community Rewards
