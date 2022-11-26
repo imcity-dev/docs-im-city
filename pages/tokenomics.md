@@ -13,13 +13,12 @@ last_modified_date: 2022-11-26 10:40
 
 ----------------
 
-'
 ### $CTY - The "IM CITY Token"
 
 ----------------
 
-The _IM CITY Token_ is the **main token** of the IM CITY platform.   
-Starting with the PoC (Proof of Concept) stage of the project the token is issued in a web2 environment on the platform.
+The _IM CITY Token_ is the **main token** of the IM.CITY platform.   
+Starting with the PoC (Proof of Concept) stage of the project, the token is issued in a web2 environment on the platform.
 Later, in the MVP (Minimum Viable Product) stage, the token will be issued on crypto networks ([Shimmer]/[IOTA]).
 
 The _$CTY_ is a rewarding token that is used to reward users for various social participations within communities and organizations and/or for their contributions to the platform.  
@@ -45,8 +44,9 @@ The **distribution structure** of the _$CTY_ is as follows:
 - 10% Development NGO
 - 10% Development Company
 - 10% Project Initiator
-      
 
+
+&nbsp;    
       
 ### $IMCT - The "IM COMMUNITY Token"
 
@@ -59,7 +59,7 @@ The idea behind the _$IMCT_ is to provide the project community with the ability
 The token will be distributed to the community members using [CityOS] distribution tools until a consistent amount of tokens is in the community hands so a decision can be made in the community for the future steps regarding the community governance and token utility.   
 At that moment, the remaining amount of tokens will be handed over to the community for further use.
 
-The _$IMCT_ token will be issued [Shimmer] Network.
+The _$IMCT_ token will be issued on the [Shimmer] Network.
 
 
 
@@ -71,8 +71,11 @@ The _$IMCT_ token will be issued [Shimmer] Network.
 >Currently, it is not decided if the _$IMCT_ will be issued and distributed under the [IM.CITY] or [UR.CITY] platform.
 >A decision is made after the PoC stage.
 
+
 &nbsp;   
 #### Tokens Supply
+
+
 
 | $IMCT              | Amount          |
 |:-------------------|:----------------|
@@ -83,6 +86,8 @@ The _$IMCT_ token will be issued [Shimmer] Network.
 
 &nbsp;   
 #### Distribution Structure
+
+
 
 The **distribution structure** of the _$IMCT_ is as follows:
 - 40% Community Rewards
