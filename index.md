@@ -13,7 +13,7 @@ last_modified_date: 2022-11-25 12:40
 >If you need to know more about this platform, please [Contact Us]
 
 {: .note }
->The UR.CITY platform is built on top of [CityOS Framework].
+>The IM.CITY platform is built on top of [CityOS Framework].
 > Please refer to the [CityOS Documentation] for more information about this framework.
 
 &nbsp;
@@ -24,7 +24,7 @@ last_modified_date: 2022-11-25 12:40
 
 ## What is IM.CITY?
 
-IM.CITY is a digital city platform prototype.
+IM.CITY is a digital city platform (prototype).
 
 [CityOS Framework]: https://cityos.dev "The Operating System for Digital/Virtual Cities"
 [CityOS Documentation]: https://cityos.dev "CityOS Documentation"
