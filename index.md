@@ -24,7 +24,7 @@ last_modified_date: 2022-11-25 12:40
 
 ## What is IM.CITY?
 
-IM.CITY is a prototype digital city platform.
+IM.CITY is a digital city platform prototype.
 
 [CityOS Framework]: https://cityos.dev "The Operating System for Digital/Virtual Cities"
 [CityOS Documentation]: https://cityos.dev "CityOS Documentation"
