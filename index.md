@@ -16,6 +16,8 @@ last_modified_date: 2022-11-25 12:40
 >The UR.CITY platform is built on top of [CityOS Framework].
 > Please refer to the [CityOS Documentation] for more information about this framework.
 
+&nbsp;
+
 # Digital City Spaces
 
 &nbsp;
