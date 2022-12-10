@@ -24,7 +24,7 @@ last_modified_date: 2022-11-25 12:40
 
 ## What is IM.CITY?
 
-> {: .highlight }
+{: .highlight }
 IM.CITY is a **digital** city platform (Proof of Concept).
 
 [CityOS Framework]: https://cityos.dev "The Operating System for Digital/Virtual Cities"
