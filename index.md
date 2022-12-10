@@ -16,6 +16,10 @@ last_modified_date: 2022-11-25 12:40
 >The UR.CITY platform is built on top of [CityOS Framework].
 > Please refer to the [CityOS Documentation] for more information about this framework.
 
+# Digital City Spaces
+
+&nbsp;
+
 ## What is IM.CITY?
 
 IM.CITY is a prototype digital city platform.
