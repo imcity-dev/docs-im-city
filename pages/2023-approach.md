@@ -119,9 +119,10 @@ The development work will be based on an adapted set o principles that will help
 
 5. ReMaSc
 
-You can read about each principle in the [Principles](https://cityos.dev/principles/){:target=_blank} page of the CityOS documentation. 
+You can read about each principle in the [Development Principles](https://cityos.dev/principles/){:target=_blank} page of the CityOS documentation. 
 
 &nbsp;
+===
 &nbsp;
 
 In addition to all the above decisions, there is a continuous work to clarify the vision and the best way to implement it.       
@@ -132,6 +133,7 @@ But people are involving in projects they feel they can contribute to and in ord
 In a way, it is kind of a vicious circle. But we started to break it and more and more people are paying attention and are willing to contribute.
 
 &nbsp;
+===
 &nbsp;
 
 I want to thank you for your support and patience. I am excited to see what the future holds for the Digital City Spaces and I hope you are too.    
