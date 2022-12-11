@@ -139,5 +139,5 @@ In a way, it is kind of a vicious circle. But we started to break it and more an
 **I want to thank you for your support and patience.** I am excited to see what the future holds for the Digital City Spaces and I hope you are too.    
 I am looking forward to working with you in the future and I hope that you will continue to support the IM.CITY - CityOS project. 
 
-_Clement Nicolaescu_
+_Clement Nicolaescu_,   
 _Project Initiator_
