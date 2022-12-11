@@ -61,8 +61,8 @@ The [Digital City Institute](https://digital.city.institute){:target="_blank"} i
 
 ### Digital Layer vs Virtual Layer
 
-- [IM.CITY](https://IM.CITY){:target="_blank"} represent the application managing the **digital layer** of the social interactions.
-- [UR.CITY](https://UR.CITY){:target="_blank"} represent the the application managing the **digital layer** of the social interactions.
+- [IM.CITY](https://IM.CITY){:target="_blank"} is the online platform managing the **digital layer** of the social interactions.
+- [UR.CITY](https://UR.CITY){:target="_blank"} is the online platform managing the **virtual layer** of the social interactions.
 
 You can read more about the difference between the two layers in the [IM.CITY - CityOS Ecosystem](https://cityos.dev/#digital-city-vs-virtual-city){:target="_blank"} documentation.
 
