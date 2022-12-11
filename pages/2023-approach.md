@@ -133,17 +133,19 @@ At the end of this year, on 30th of December, the Soonaverse collections will be
 
 Also, we will change the name of the elements in order to use a more adapted terminology. 
 
-#### **Intelligent Agents**
+#### Intelligent Agents
 
 The "virtual citizens" will be renamed to "Intelligent Agents"  
 More details of the elements usage will be presented on the element page at [CityOS Elements](https://cityos.dev/elements/city-spaces/){:target=_blank} page.
 
 
-#### **City Space**
+#### City Space
 
 The "virtual land" will be renamed to "City Space"
 
 More details of the elements usage will be presented on the element page at [CityOS Elements](https://cityos.dev/elements/intelligent-agents/){:target=_blank} page.
+
+&nbsp;
 
 Each element will have two versions as "digital" for IM.CITY platform and "virtual" for UR.CITY platform, and they will be sold separately in the future.
 
