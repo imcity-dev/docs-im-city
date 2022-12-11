@@ -50,20 +50,21 @@ So, we will apply this principle to the IM.CITY ecosystem and split different co
 
 ### Conceptualization vs Development
 
-- Digital City Institute
-- New Stage Technology
+The [Digital City Institute](https://digital.city.institute){:target="_blank"} is a think tank exploring and advancing the concept of the “Digital City”, focused on how technology can be used to improve social interactions and make modern communities more collaborative and participatory through digital rewards systems.
 
 ### Framework vs Application
 
-- CityOS
-- IM.CITY / UR.CITY
+- The [CityOS.dev](http://cityos.dev){:target="_blank"} represent the framework that will be used to build the IM.CITY platform. It is a set of tools and libraries that will be used to build the IM.CITY platform and other similar platforms in the future.
+ 
+- [IM.CITY](https://IM.CITY){:target="_blank"} / [UR.CITY](https://UR.CITY){:target="_blank"} represent the applications side that will be built on top of the CityOS operating system (framework).
+
 
 ### Digital Layer vs Virtual Layer
 
-- IM.CITY
-- UR.CITY
+- [IM.CITY](https://IM.CITY){:target="_blank"} represent the application managing the **digital layer** of the social interactions.
+- [UR.CITY](https://UR.CITY){:target="_blank"} represent the the application managing the **digital layer** of the social interactions.
 
-
+You can read more about the difference between the two layers in the [IM.CITY - CityOS Ecosystem](https://cityos.dev/#digital-city-vs-virtual-city){:target="_blank"} documentation.
 
 
 ## The Proof of Concept
@@ -129,20 +130,19 @@ You can read about each principle in the [Development Principles](https://cityos
 
 In the spring of 2022 we launched a set of Soonaverse.com collections in the form of _"pre-sale certificates"_ for _"virtual citizens"_ and _"virtual land"_. 
 
-At the end of this year, on 30th of December, the Soonaverse collections will be minted to the Shimmer Network and all unsold items will be burnt.
+At the end of 2022, on 30th of December, the Soonaverse collections will be minted to the Shimmer Network and all unsold items will be burnt.
 
 Also, we will change the name of the elements in order to use a more adapted terminology. 
 
 #### Intelligent Agents
 
-The "virtual citizens" will be renamed to "Intelligent Agents"  
+The "virtual citizens" will be renamed to "Intelligent Agents"    
 More details of the elements usage will be presented on the element page at [CityOS Elements](https://cityos.dev/elements/city-spaces/){:target=_blank} page.
 
 
 #### City Space
 
-The "virtual land" will be renamed to "City Space"
-
+The "virtual land" will be renamed to "City Space"        
 More details of the elements usage will be presented on the element page at [CityOS Elements](https://cityos.dev/elements/intelligent-agents/){:target=_blank} page.
 
 &nbsp;
@@ -158,7 +158,7 @@ Each element will have two versions as "digital" for IM.CITY platform and "virtu
 
 **In addition to all the above decisions, there is a continuous work to clarify the vision and the best way to implement it.**
 
-As I always said, this is not a regular project and it can not be based on a one man's ideas.      
+As I always said, this is not a regular project, and it can not be based on a one man's ideas.      
 It is a project that requires a lot of collaboration and a lot of people to be involved.      
 But people are involving in projects they feel they can contribute to and in order to make this happen, we need to have a clear vision and a clear roadmap.      
 
@@ -167,7 +167,7 @@ In a way, it is kind of a vicious circle. But we started to break it and more an
 &nbsp;
 &nbsp;
 
-**I want to thank you for your support and patience** and I am looking forward to working with you in the future and I hope that you will continue to support the IM.CITY - CityOS project.       
+**I want to thank you for your support and patience**, and I am looking forward to working with you in the future and I hope that you will continue to support the IM.CITY - CityOS project.       
 I am excited to see what the future holds for the Digital City Spaces and I hope you are too.
 
 _Clement Nicolaescu_,   
