@@ -45,17 +45,23 @@ While this is one of the main goals of the IM.CITY project, it makes more sense 
 
 **Separation of concerns** is a design principle in which different aspects of a system are handled by separate components or modules, each of which is responsible for a specific concern or functionality. This allows the different components to be developed and tested independently, and makes it easier to modify and maintain the system as a whole. 
 
-So, we will apply this principle to the IM.CITY project and split different components in order to clarify their purpose and development.
+So, we will apply this principle to the IM.CITY ecosystem and split different components in order to clarify their purpose and development.
 
 
 ### Conceptualization vs Development
 
+- Digital City Institute
+- New Stage Technology
 
 ### Framework vs Application
 
+- CityOS
+- IM.CITY / UR.CITY
 
 ### Digital Layer vs Virtual Layer
 
+- IM.CITY
+- UR.CITY
 
 
 
