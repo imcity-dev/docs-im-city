@@ -7,7 +7,7 @@ nav_exclude: true
 last_modified_date: 2022-12-10 10:40
 ---
 
-# The 2023 Approach
+# The IM.CITY's approach of 2023
 {: .no_toc }
 
 ----------------
