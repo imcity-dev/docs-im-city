@@ -134,7 +134,6 @@ But people are involving in projects they feel they can contribute to and in ord
 In a way, it is kind of a vicious circle. But we started to break it and more and more people are paying attention and are willing to contribute.
 
 &nbsp;
-*
 &nbsp;
 
 **I want to thank you for your support and patience.** I am excited to see what the future holds for the Digital City Spaces and I hope you are too.    
