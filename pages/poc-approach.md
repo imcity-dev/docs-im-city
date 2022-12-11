@@ -81,3 +81,17 @@ Ultimately, the decision to reset the development and return to the proof of con
 The PoC approach imply the separation of the initial IM.CITY platform into two different platforms: IM.CITY for the **digital city** layer and UR.CITY for the **virtual layer**. Both platforms will start in January 2023 with a fresh database install. All existing data (users, $IMCT tokens)  will be archived and re-joined at a later stage.      
 So, if you are a user of the IM.CITY platform, you will have to create a new account and start from scratch. Your $IMCT tokens will be archived and re-joined at a later stage. **The $IMCT tokens will not be lost!** Only they will be visible and usable at a later stage when the proof of concept stage is completed and the MVP stage is started.
 
+
+## The communication channels
+
+----------------
+
+Following the separation of concern principle, we will separate the functionality and the communication channels for each platform. 
+The content and communication part of each platform will be presented in a separate documentation site:
+- CityOs: [docs.cityos.dev](https://docs.cityos.dev){:target="_blank"}
+- IM.CITY: [docs.im.city](https://docs.im.city){:target="_blank"}
+- UR.CITY: [docs.ur.city](https://docs.ur.city){:target="_blank"}
+
+In order to assure the highest level or transparency and provide easy collaboration tools, each documentation site is open for collaboration, and you can contribute to the content by creating a pull request on the GitHub.
+
+**Note: all documentation sites are considered as a work in progress and will be updated on a regular basis.**
