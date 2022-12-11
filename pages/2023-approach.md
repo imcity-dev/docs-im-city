@@ -39,28 +39,15 @@ last_modified_date: 2022-12-10 10:40
 
 ----------------
 
+As you already know, I have spent the last several months working on holistic solutions.      
+I have been trying to find a way to combine the digital city layer with the virtual layer in a way that will make sense for the users and will be easy to use. 
+While this is one of the main goals of the IM.CITY project, it makes more sense now to fist build the components separately and join them only when they are functional.
+
+**Separation of concerns** is a design principle in which different aspects of a system are handled by separate components or modules, each of which is responsible for a specific concern or functionality. This allows the different components to be developed and tested independently, and makes it easier to modify and maintain the system as a whole. 
+
+So, we will apply this principle to the IM.CITY project and split different components in order to clarify their purpose and development.
 
 
-
-
-
-## The Development Principles
-
-----------------
-
-The development work will be based on a set o principles that will help to increase the speed of development and ensure that we are on the right track. 
-
-1. Modular Architecture
-
-2. OS on Stop
-
-3. PoC before MVP
-
-4. CRUD before DDD
-
-5. ReMaSc
-
-You can read about each principle in the [Principles](https://cityos.dev/principles/){:target=_blank} page of the CityOS documentation.
 
 
 ## The Proof of Concept
@@ -68,7 +55,9 @@ You can read about each principle in the [Principles](https://cityos.dev/princip
 ----------------
 
 
-As you already know, I have spent the last several months working on holistic solutions and trying to update and prepare the legacy data before validating the concepts and technology. This approach consumed a lot of time and resources. After careful consideration, I have decided to reset the development and return to the proof of concept stage (PoC).
+The holistic approach and trying to update and prepare the legacy data before validating the concepts and technology consumed a lot of time and resources. 
+
+After careful consideration, I have decided to reset the development and return to the proof of concept stage (PoC).
 
 There are a few reasons why I made this decision. First and foremost, I realized that the focus on preparing the legacy data was hindering our ability to validate the concept and technology. By trying to fit the data into the new frameworks even before the solution is validated, I was limiting our creativity and ability to explore new ideas.
 
@@ -86,12 +75,32 @@ So, if you are a user of the IM.CITY platform, you will have to create a new acc
 
 ----------------
 
-Following the separation of concern principle, we will separate the functionality and the communication channels for each platform. 
+Following the separation of concerns principle, we will separate the functionality and the communication channels for each platform. 
 The content and communication part of each platform will be presented in a separate documentation site:
 - CityOs: [docs.cityos.dev](https://docs.cityos.dev){:target="_blank"}
 - IM.CITY: [docs.im.city](https://docs.im.city){:target="_blank"}
 - UR.CITY: [docs.ur.city](https://docs.ur.city){:target="_blank"}
 
-In order to assure the highest level or transparency and provide easy collaboration tools, each documentation site is open for collaboration, and you can contribute to the content by creating a pull request on the GitHub.
+In order to assure the highest level or transparency and provide easy collaboration tools, each documentation site is open, and you can contribute to the content by creating a pull request on the GitHub.
 
 **Note: all documentation sites are considered as a work in progress and will be updated on a regular basis.**
+
+
+
+## The Development Principles
+
+----------------
+
+The development work will be based on an adapted set o principles that will help to increase the speed of development and ensure that we are on the right track.
+
+1. Modular Architecture
+
+2. OS on Stop
+
+3. PoC before MVP
+
+4. CRUD before DDD
+
+5. ReMaSc
+
+You can read about each principle in the [Principles](https://cityos.dev/principles/){:target=_blank} page of the CityOS documentation.
