@@ -121,6 +121,18 @@ The development work will be based on an adapted set o principles that will help
 
 You can read about each principle in the [Development Principles](https://cityos.dev/principles/){:target=_blank} page of the CityOS documentation. 
 
+
+## The Soonaverse Collections
+
+----------------
+
+
+In the spring of 2022 we launched a set of Soonaverse.com collections in the form of _"pre-sale certificates"_ for _"virtual citizens"_ and _"virtual land"_
+
+
+
+
+
 &nbsp;
 *
 &nbsp;
