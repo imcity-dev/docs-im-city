@@ -7,7 +7,7 @@ nav_exclude: true
 last_modified_date: 2022-12-10 10:40
 ---
 
-# Proof of Concept Approach in 2023
+# The 2023 Approach
 {: .no_toc }
 
 ----------------
@@ -46,6 +46,16 @@ While this is one of the main goals of the IM.CITY project, it makes more sense 
 **Separation of concerns** is a design principle in which different aspects of a system are handled by separate components or modules, each of which is responsible for a specific concern or functionality. This allows the different components to be developed and tested independently, and makes it easier to modify and maintain the system as a whole. 
 
 So, we will apply this principle to the IM.CITY project and split different components in order to clarify their purpose and development.
+
+
+### Conceptualization vs Development
+
+
+### Framework vs Application
+
+
+### Digital Layer vs Virtual Layer
+
 
 
 
