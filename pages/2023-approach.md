@@ -125,7 +125,8 @@ You can read about each principle in the [Development Principles](https://cityos
 ===
 &nbsp;
 
-In addition to all the above decisions, there is a continuous work to clarify the vision and the best way to implement it.       
+**In addition to all the above decisions, there is a continuous work to clarify the vision and the best way to implement it.**
+
 As I always said, this is not a regular project and it can not be based on a one man's ideas.      
 It is a project that requires a lot of collaboration and a lot of people to be involved.      
 But people are involving in projects they feel they can contribute to and in order to make this happen, we need to have a clear vision and a clear roadmap.      
@@ -136,9 +137,8 @@ In a way, it is kind of a vicious circle. But we started to break it and more an
 ===
 &nbsp;
 
-I want to thank you for your support and patience. I am excited to see what the future holds for the Digital City Spaces and I hope you are too.    
+**I want to thank you for your support and patience.** I am excited to see what the future holds for the Digital City Spaces and I hope you are too.    
 I am looking forward to working with you in the future and I hope that you will continue to support the IM.CITY - CityOS project. 
 
-Clement Nicolaescu 
-
-Project Initiator
+_Clement Nicolaescu_
+_Project Initiator_
