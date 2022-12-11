@@ -139,11 +139,14 @@ Also, we will change the name of the elements in order to use a more adapted ter
 The "virtual citizens" will be renamed to "Intelligent Agents"    
 More details of the elements usage will be presented on the element page at [CityOS Elements](https://cityos.dev/elements/city-spaces/){:target=_blank} page.
 
+[Soonaverse Collection](https://soonaverse.com/collection/0x4c2ae83020cb2bde6fde62564fd42751f334f338){:target="_blank"}
 
 #### City Space
 
 The "virtual land" will be renamed to "City Space"        
 More details of the elements usage will be presented on the element page at [CityOS Elements](https://cityos.dev/elements/intelligent-agents/){:target=_blank} page.
+
+[Soonaverse Collection](https://soonaverse.com/collection/0xa63f4ccc74dd9d3d2ebc1e7933fb717e2b8a7c02){:target="_blank"}
 
 &nbsp;
 
