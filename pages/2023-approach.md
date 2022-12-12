@@ -152,7 +152,7 @@ More details of the elements usage will be presented on the element page at [Cit
 
 Each element will have two versions as "digital" for IM.CITY platform and "virtual" for UR.CITY platform, and they will be sold separately in the future.
 
-**However, as a sign of appreciation for our community and their support in very early stages, all pre-sale certificates from the Soonaverse Collections will be valid on both the Digital City (IM.CITY) and the Virtual City (UR.CITY).**
+**However, as a sign of appreciation for our community and their support in very early stages, all pre-sale certificates from the Soonaverse Collections will be valid for both the Digital City (IM.CITY) and the Virtual City (UR.CITY).**
 
 
 &nbsp;
