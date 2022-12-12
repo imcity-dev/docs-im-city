@@ -27,7 +27,7 @@ last_modified_date: 2022-12-10 10:40
 >Both platforms will start in January 2023 with a fresh database install. All existing data (users, $IMCT tokens)  will be archived and re-joined at a later stage.
 
 {: .note }
->The IM.CITY - CityOS ecosystem operates with 3 different types of tokens: $IMCT (this is the community token), $CTY and $VCT, along some other contextual tokens. Please make sure you understand the difference between these tokens before you start using the platform.
+>The IM.CITY - CityOS ecosystem operates with 3 different utility tokens: $IMCT (the community token), $CTY (the digital platform token) and $VCT (the virtual platform token), along some other contextual tokens. Please make sure you understand the difference between these tokens before you start using the platform.
 >You may find more information about the tokens in the section of each platform documentation:  [docs.IM.CITY/tokenomics](https://docs.im.city/tokenomics/){:target="_blank"} and [docs.UR.CITY/tokenomics](https://docs.ur.city/tokenomics/){:target="_blank"}
 
 
