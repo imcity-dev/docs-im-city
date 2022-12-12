@@ -88,7 +88,7 @@ The PoC approach imply the separation of the initial IM.CITY platform into two d
 So, if you are a user of the IM.CITY platform, you will have to create a new account and start from scratch. Your $IMCT tokens will be archived and re-joined at a later stage. **The $IMCT tokens will not be lost!** Only they will be visible and usable at a later stage when the proof of concept stage is completed and the MVP stage is started.
 
 
-## The communication channels
+## The Communication Channels
 
 ----------------
 
