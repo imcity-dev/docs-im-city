@@ -41,7 +41,7 @@ last_modified_date: 2022-12-10 10:40
 
 As you already know, I have spent the last several months working on holistic solutions.      
 I have been trying to find a way to combine the digital city layer with the virtual layer in a way that will make sense for the users and will be easy to use. 
-While this is one of the main goals of the IM.CITY project, it makes more sense now to fist build the components separately and join them only when they are functional.
+While this is one of the main goals of the IM.CITY project, it makes more sense now to first build the components separately and join them only when they are functional.
 
 **Separation of concerns** is a design principle in which different aspects of a system are handled by separate components or modules, each of which is responsible for a specific concern or functionality. This allows the different components to be developed and tested independently, and makes it easier to modify and maintain the system as a whole. 
 
