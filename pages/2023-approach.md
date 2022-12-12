@@ -54,9 +54,9 @@ The [Digital City Institute](https://digital.city.institute){:target="_blank"} i
 
 ### Framework vs Application
 
-- The [CityOS.dev](http://cityos.dev){:target="_blank"} represent the framework that will be used to build the IM.CITY platform. It is a set of tools and libraries that will be used to build the IM.CITY platform and other similar platforms in the future.
+- The [CityOS.dev](http://cityos.dev){:target="_blank"} represents the framework that will be used to build the IM.CITY platform. It is a set of tools and libraries that will be used to build the IM.CITY platform and other similar platforms in the future.
  
-- [IM.CITY](https://IM.CITY){:target="_blank"} / [UR.CITY](https://UR.CITY){:target="_blank"} represent the applications side that will be built on top of the CityOS operating system (framework).
+- [IM.CITY](https://IM.CITY){:target="_blank"} / [UR.CITY](https://UR.CITY){:target="_blank"} represents the applications side that will be built on top of the CityOS operating system (framework).
 
 
 ### Digital Layer vs Virtual Layer
