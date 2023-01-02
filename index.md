@@ -22,7 +22,8 @@ last_modified_date: 2022-11-25 12:40
 
 &nbsp;
 
-## What is IM.CITY?
+## The Participatory Society
+## The Rewarding Society
 
 ----------------
 
