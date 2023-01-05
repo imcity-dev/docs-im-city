@@ -18,17 +18,15 @@ last_modified_date: 2022-11-25 12:40
 
 &nbsp;
 
-# Digital City Spaces
+# Digital Spaces for Collective Decision-Making
 
 &nbsp;
 
-## The Participatory Society
-## The Rewarding Society
 
 ----------------
 
 {: .highlight }
-IM.CITY is a **digital** city platform (Proof of Concept).
+IM.CITY is a **digital spaces** platform that provides tools for decision-making processes in communities. (Proof of Concept).
 
 [CityOS Framework]: https://cityos.dev "The Operating System for Digital/Virtual Cities"
 [CityOS Documentation]: https://cityos.dev "CityOS Documentation"
