@@ -34,8 +34,10 @@ The _Digital City Token_ is the **main token** of the IM.CITY platform.
 Starting with the PoC (Proof of Concept) stage of the project, the token is issued in a web2 environment on the platform.
 Later, in the MVP (Minimum Viable Product) stage, the token will be issued on crypto networks ([Shimmer]/[IOTA]).
 
-The _$DCT_ is a rewarding token that is used to reward users for various social participations within communities and organizations and/or for their contributions to the platform.  
+Users can earn _$DCT_ through a Universal Basic Income (UBI) or other rewards, purchase them, or transfer them to/from other users.
+
 As a utility token, the _$DCT_ is used to pay for the use of the platform and its services.
+
 
 
 ### Tokens Supply
@@ -57,6 +59,17 @@ As a utility token, the _$DCT_ is used to pay for the use of the platform and it
 - 10% Development NGO
 - 10% Development Company
 - 10% Project Initiator
+
+
+
+## Digital Intelligence Token ($DIT) 
+
+A contextual token that can be used to access the services of Intelligent Agents on the platform. Users can earn $DIT through a Universal Basic Income (UBI) for Intelligent Agents, or purchase them from the platform or from other users.
+
+## Digital Space Token ($DST) 
+
+A contextual token used to determine the capacity of a Digital Space on the platform.
+
 
 
       
