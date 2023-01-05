@@ -26,7 +26,7 @@ last_modified_date: 2022-11-25 12:40
 ----------------
 
 {: .highlight }
-IM.CITY is a **digital spaces platform** providing tools for **group decision-making**. (Proof of Concept).
+IM.CITY provides **communities and organizations** with better tools for **collective decisions**. (Proof of Concept).
 
 [CityOS Framework]: https://cityos.dev "The Operating System for Digital/Virtual Cities"
 [CityOS Documentation]: https://cityos.dev "CityOS Documentation"
