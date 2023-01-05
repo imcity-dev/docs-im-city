@@ -30,4 +30,4 @@ IM.CITY is a **digital spaces platform** providing tools for **group decision-ma
 
 [CityOS Framework]: https://cityos.dev "The Operating System for Digital/Virtual Cities"
 [CityOS Documentation]: https://cityos.dev "CityOS Documentation"
-[Contact Us]: /pages/contact.html "Contact Us"
+[Contact Us]: /contact/ "Contact Us"
