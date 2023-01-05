@@ -18,7 +18,7 @@ last_modified_date: 2022-11-25 12:40
 
 &nbsp;
 
-# Digital Spaces for Collective Decision-Making
+# Digital Spaces for Intelligent Decisions
 
 &nbsp;
 
