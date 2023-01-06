@@ -13,7 +13,7 @@ last_modified_date: 2022-11-25 12:40
 >If you need to know more about this platform, please [Contact Us]
 
 {: .note }
->The IM.CITY platform is built on top of [CityOS Framework].
+>The IM.CITY platform is built as a Proof of Concept for [CityOS Framework].
 > Please refer to the [CityOS Documentation] for more information about this framework.
 
 &nbsp;
