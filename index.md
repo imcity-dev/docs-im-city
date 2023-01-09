@@ -40,7 +40,7 @@ IM.CITY also includes **Digital Spaces** where users can check in and participat
 
 As our platform evolves, we plan to eventually release CityOS, an operating system for digital city states – a new form of independent cities. Based on CityOS, anyone will be able to create and manage their own digital city and manage their community.
 
-Please note that this project is currently in its early stages as a Proof of Concept (PoC). We believe that IM.CITY and CityOS have the potential to revolutionize the way communities and organizations make decisions, and we invite you to join us on this journey as we build a better future together.
+Please note that this project is currently in its early stages of planning it as a Proof of Concept (PoC). We believe that IM.CITY and CityOS have the potential to revolutionize the way communities and organizations make decisions, and we invite you to join us on this journey as we build a better future together.
 
 Read more about the difference between "virtual" and "digital" at: [**Digital City Institute**](https://digital.city.institute/physical-digital-virtual/){:target=_blank}
 
