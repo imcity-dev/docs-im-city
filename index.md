@@ -28,6 +28,7 @@ last_modified_date: 2022-11-25 12:40
 {: .highlight }
 IM.CITY is an online platform that provides **communities and organizations** with better tools for **collective decisions**. (Proof of Concept).
 
+&nbsp;
 
 IM.CITY is a planned online platform for communities and organizations to conduct collective decision-making processes. Our platform provides a complete set of tools for research, dialogue, debate, and voting, including a module called the **Decision-Making Engine (DME)**.
 
