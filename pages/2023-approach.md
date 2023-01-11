@@ -23,11 +23,11 @@ last_modified_date: 2022-12-10 10:40
 
 
 {: .warning }
->The Proof of Concept approach imply the separation of the initial IM.CITY platform into two different platforms: IM.CITY for the **digital city** layer and UR.CITY for the **virtual layer**
+>The Proof of Concept approach imply the separation of the initial IM.CITY platform into two different platforms: IM.CITY for the **digital city** layer and UR.CITY for the **artificial layer**
 >Both platforms will start in January 2023 with a fresh database install. All existing data (users, $IMCT tokens)  will be archived and re-joined at a later stage.
 
 {: .note }
->The IM.CITY - CityOS ecosystem operates with 3 different utility tokens: $IMCT (the community token), $CTY (the digital platform token) and $VCT (the virtual platform token), along some other contextual tokens. Please make sure you understand the difference between these tokens before you start using the platform.
+>The IM.CITY - CityOS ecosystem operates with 3 different utility tokens: $IMCT (the community token), $CTY (the digital platform token) and $ACT (the artificial platform token), along some other contextual tokens. Please make sure you understand the difference between these tokens before you start using the platform.
 >You may find more information about the tokens in the section of each platform documentation:  [docs.IM.CITY/tokenomics](https://docs.im.city/tokenomics/){:target="_blank"} and [docs.UR.CITY/tokenomics](https://docs.ur.city/tokenomics/){:target="_blank"}
 
 
@@ -40,7 +40,7 @@ last_modified_date: 2022-12-10 10:40
 ----------------
 
 As you already know, I have spent the last several months working on holistic solutions.      
-I have been trying to find a way to combine the digital city layer with the virtual layer in a way that will make sense for the users and will be easy to use. 
+I have been trying to find a way to combine the digital city layer with the artificial layer in a way that will make sense for the users and will be easy to use. 
 While this is one of the main goals of the IM.CITY project, it makes more sense now to first build the components separately and join them only when they are functional.
 
 **Separation of concerns** is a design principle in which different aspects of a system are handled by separate components or modules, each of which is responsible for a specific concern or functionality. This allows the different components to be developed and tested independently, and makes it easier to modify and maintain the system as a whole. 
@@ -59,12 +59,12 @@ The [Digital City Institute](https://digital.city.institute){:target="_blank"} i
 - [IM.CITY](https://IM.CITY){:target="_blank"} / [UR.CITY](https://UR.CITY){:target="_blank"} represents the applications side that will be built on top of the CityOS operating system (framework).
 
 
-### Digital Layer vs Virtual Layer
+### Digital Layer vs Artificial Layer
 
 - [IM.CITY](https://IM.CITY){:target="_blank"} is the online platform managing the **digital layer** of the social interactions.
-- [UR.CITY](https://UR.CITY){:target="_blank"} is the online platform managing the **virtual layer** of the social interactions.
+- [UR.CITY](https://UR.CITY){:target="_blank"} is the online platform managing the **artificial layer** of the social interactions.
 
-You can read more about the difference between the two layers in the [IM.CITY - CityOS Ecosystem](https://cityos.dev/#digital-city-vs-virtual-city){:target="_blank"} documentation.
+You can read more about the difference between the two layers in the [IM.CITY - CityOS Ecosystem](https://cityos.dev/#digital-city-vs-artificial-city){:target="_blank"} documentation.
 
 
 ## The Proof of Concept
@@ -84,7 +84,7 @@ Furthermore, by resetting to the proof of concept stage, we will be able to gath
 
 Ultimately, the decision to reset the development and return to the proof of concept stage was driven by my desire to maximize efficiency and effectiveness. I believe that this will give us the best chance of success. 
 
-The PoC approach imply the separation of the initial IM.CITY platform into two different platforms: IM.CITY for the **digital city** layer and UR.CITY for the **virtual layer**. Both platforms will start in January 2023 with a fresh database install. All existing data (users, $IMCT tokens)  will be archived and re-joined at a later stage.      
+The PoC approach imply the separation of the initial IM.CITY platform into two different platforms: IM.CITY for the **digital city** layer and UR.CITY for the **artificial layer**. Both platforms will start in January 2023 with a fresh database install. All existing data (users, $IMCT tokens)  will be archived and re-joined at a later stage.      
 So, if you are a user of the IM.CITY platform, you will have to create a new account and start from scratch. Your $IMCT tokens will be archived and re-joined at a later stage. **The $IMCT tokens will not be lost!** Only they will be visible and usable at a later stage when the proof of concept stage is completed and the MVP stage is started.
 
 
@@ -141,7 +141,7 @@ More details of the elements usage will be presented on the element page at [Cit
 
 [Soonaverse Collection](https://soonaverse.com/collection/0x4c2ae83020cb2bde6fde62564fd42751f334f338){:target="_blank"}
 
-#### City Space
+#### Digital City Space
 
 The "virtual land" will be renamed to "City Space"        
 More details of the elements usage will be presented on the element page at [CityOS Elements](https://cityos.dev/elements/intelligent-agents/){:target=_blank} page.
@@ -150,9 +150,9 @@ More details of the elements usage will be presented on the element page at [Cit
 
 &nbsp;
 
-Each element will have two versions as "digital" for IM.CITY platform and "virtual" for UR.CITY platform, and they will be sold separately in the future.
+Each element will have two versions as "digital" for IM.CITY platform and "artificial" for UR.CITY platform, and they will be sold separately in the future.
 
-**However, as a sign of appreciation for our community and their support in very early stages, all pre-sale certificates from the Soonaverse Collections will be valid for both the Digital City (IM.CITY) and the Virtual City (UR.CITY).**
+**However, as a sign of appreciation for our community and their support in very early stages, all pre-sale certificates from the Soonaverse Collections will be valid for both the Digital City (IM.CITY) and the Artificial City (UR.CITY).**
 
 
 &nbsp;

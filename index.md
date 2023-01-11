@@ -42,8 +42,8 @@ As our platform evolves, we plan to eventually release CityOS, an operating syst
 
 Please note that this project is currently in its early stages of planning it as a Proof of Concept (PoC). We believe that IM.CITY and CityOS have the potential to revolutionize the way communities and organizations make decisions, and we invite you to join us on this journey as we build a better future together.
 
-Read more about the difference between "virtual" and "digital" at: [**Digital City Institute**](https://digital.city.institute/physical-digital-virtual/){:target=_blank}
+Read more about the difference between "artificial" and "digital" at: [**Digital City Institute**](https://digital.city.institute/physical-digital-artificial/){:target=_blank}
 
-[CityOS Framework]: https://cityos.dev "The Operating System for Digital/Virtual Cities"
+[CityOS Framework]: https://cityos.dev "The Operating System for Digital/Artificial Cities"
 [CityOS Documentation]: https://cityos.dev "CityOS Documentation"
 [Contact Us]: /contact/ "Contact Us"
