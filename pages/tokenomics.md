@@ -62,13 +62,14 @@ As a utility token, the _$DCT_ is used to pay for the use of the platform and it
 
 
 
-## Digital Intelligence Token ($DIT) 
+## Digital Space Token ($DST)
 
-A contextual token that can be used to access the services of Intelligent Agents on the platform. Users can earn $DIT through a Universal Basic Income (UBI) for Intelligent Agents, or purchase them from the platform or from other users.
+A **contextual token** used to determine the capacity of a Digital Space on the platform.
 
-## Digital Space Token ($DST) 
 
-A contextual token used to determine the capacity of a Digital Space on the platform.
+## Artificial Intelligence Token ($AIT) 
+
+A **contextual token** that can be used to access the services of Intelligent Agents on the platform.
 
 
 
