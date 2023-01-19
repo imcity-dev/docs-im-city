@@ -24,12 +24,9 @@ last_modified_date: 2022-11-25 12:40
 
 ----------------
 
-{: .highlight }
-IM.CITY is an online platform that provides **communities and organizations** with better tools for **collective decisions**. (Proof of Concept).
-
 &nbsp;
 
-IM.CITY is a planned online platform for communities and organizations to conduct collective decision-making processes. Our platform provides a complete set of tools for research, dialogue, debate, and voting, including a module called the **Decision-Making Engine (DME)**.
+IM.CITY is a digital platform that utilizes intelligent agents to facilitate real-life social interactions and augmented decision-making in urban contexts. By leveraging the power of AI and DLT, IM.CITY offers a new level of efficiency, transparency, and community engagement. The platform includes modules such as the IdeaBox, which allows creators to present their ideas and allows readers to consume them in different formats. The IdeaStream, a dialogue and debate module, allows participants to comment and present their own ideas and the IdeaVote, a voting module. IM.CITY is a unique ecosystem that offers a new way for urban communities to interact and make decisions that truly reflect the needs and preferences of the people within them.
 
 Users can provide data and ideas as part of the decision-making process, and have the option to use Intelligent Agents (AI tools) to provide them with information or suggestions. These **Intelligent Agents** are powered by the OpenAI API, and can be accessed by spending a digital token called the **Digital Intelligence Token ($DIT)**. Users can earn $DIT tokens through a Universal Basic Income (UBI) automated mechanism, or purchase them from the platform or from other users.
 
