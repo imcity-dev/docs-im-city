@@ -13,8 +13,7 @@ last_modified_date: 2022-11-25 12:40
 >If you need to know more about this platform, please [Contact Us]
 
 {: .note }
->The IM.CITY platform is built as a Proof of Concept for [CityOS Framework].
-> Please refer to the [CityOS Documentation] for more information about this framework.
+>The IM.CITY platform is part of the IM.UR.CITY project, https://docs.UR.CITY and http://docs.IM.CITY are twin projects that work together to create a unique ecosystem where #intelligentAgents are developed and used to facilitate real-life social interactions. .
 
 &nbsp;
 
