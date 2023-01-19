@@ -20,5 +20,7 @@ The timeline of the road map is still to be decided following consultation with 
 
 - [ ] **[Install IM.CITY](https://IM.CITY){:target="_blank"}** as a _Digital Spaces Platform_
 - [ ] **[Develop DME](https://CityOs.dev/elements/decision-making-engine/){:target="_blank"}** (Decision-Making Engine)
-- [ ] **Install CityOS.World**  as a _Digital Cities Platform_
+  - [ ] IdeaBox
+  - [ ] IdeaStream
+  - [ ] IdeaVote
 - [ ] **Develop DRE** (Digital Rewards Engine)
