@@ -18,7 +18,7 @@ last_modified_date: 2022-11-25 12:40
 
 &nbsp;
 
-# Digital Spaces for Intelligent Decisions
+# Real-Life Social Interaction and Decision-Making Revolutionized by Intelligent Agents
 
 &nbsp;
 
