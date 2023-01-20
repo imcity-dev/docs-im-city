@@ -25,7 +25,7 @@ last_modified_date: 2022-11-25 12:40
 ----------------
 
 {: .highlight }
-IM.CITY is an online platform that provides **communities and organizations** with better tools for **social interactions** and **collective decisions**. (Proof of Concept).
+IM.CITY is an online platform that provides **digital communities and organizations** with better tools for **social interactions** and **collective decisions**. (Proof of Concept).
 
 &nbsp;
 
